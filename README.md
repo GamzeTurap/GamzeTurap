@@ -1,4 +1,4 @@
-###                                                      Hi there I'm GAMZE 👋
+###                                                      Hi there,           I'm GAMZE 👋
 
 <!--
 - 🔭 I’m currently working on ...
