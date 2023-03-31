@@ -1,5 +1,5 @@
 #
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+I'm+Gamze+Turap;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ) 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Gamze;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ+👋) 
 
 
 <!--
@@ -12,11 +12,23 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamzeTurap&layout=compact)](https://github.com/GamzeTurap/github-readme-stats)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=GamzeTurap&show_icons=true&theme=radical)
+
+-->
+
+
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GamzeTurap&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+</div> 
+
 
 
 
