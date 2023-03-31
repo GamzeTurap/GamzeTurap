@@ -40,6 +40,20 @@
     </a>
   </p>
 </div>
+<div> 
+  <p align="center">
+    <a href="https://www.instagram.com/bardakikedi/?next=%2F/"><img title="instagram.com/in/gamzeturap" src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=purple">
+    </a>
+  </p>
+</div>
+<div> 
+  <p align="center">
+    <a href="https://twitter.com/bardakikedi/"><img title="twitter.com/in/gamzeturap" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+  </p>
+</div>
+
+
 
 
 
