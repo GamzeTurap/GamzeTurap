@@ -16,9 +16,11 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=GamzeTurap&show_icons=true&theme=radical)
 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/bardakikedi/?next=%2F) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://twitter.com/bardakikedi)
+[![linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.linkedin.com/in/gamze-turap-b62383269/)
+
 -->
-
-
 <div align="center">
   <br>
   <a href="#">
@@ -29,9 +31,15 @@
   </a>
 </div> 
 
+<br>
+<br>
+  
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gamze-turap/"><img title="linkedin.com/in/gamzeturap" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</div>
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/bardakikedi/?next=%2F) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://twitter.com/bardakikedi)
-[![linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.linkedin.com/in/gamze-turap-b62383269/)
