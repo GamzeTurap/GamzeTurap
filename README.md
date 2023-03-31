@@ -38,7 +38,7 @@
   <p align="center">
     <a href="#">
   <p align="center">
-    <a href="https://www.linkedin.com/in/gamzeturap/"><img title="linkedin.com/in/gamzeturap" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/gamze-turap-b62383269/"><img title="linkedin.com/in/gamzeturap" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
     <a href="#">
   <p align="center">
