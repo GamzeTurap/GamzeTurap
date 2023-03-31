@@ -38,11 +38,11 @@
   <p align="center">
     <a href="#">
   <p align="center">
-    <a href="https://www.linkedin.com/in/gamze-turap/"><img title="linkedin.com/in/gamzeturap" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/gamzeturap/"><img title="linkedin.com/in/gamzeturap" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
     <a href="#">
   <p align="center">
-    <a href="https://www.instagram.com/bardakikedi/?next=%2F/"><img title="instagram.com/in/gamzeturap" src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=purple">
+    <a href="https://www.instagram.com/bardakikedi/"><img title="instagram.com/in/gamzeturap" src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=purple">
    </a>
     <a href="#">
   <p align="center">
@@ -50,9 +50,7 @@
     </a>
   </p>
 </div>
-    
-    ![Snake animation](https://github.com/GamzeTurap/GamzeTurap/blob/output/github-contribution-grid-snake.svg)
-
+   
 
 
 
