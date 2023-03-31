@@ -34,7 +34,9 @@
 <br>
 <br>
   
-<div> 
+<div style="display: inline_block">
+  <p align="center">
+    <a href="#">
   <p align="center">
     <a href="https://www.linkedin.com/in/gamze-turap/"><img title="linkedin.com/in/gamzeturap" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
