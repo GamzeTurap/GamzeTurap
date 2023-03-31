@@ -51,7 +51,7 @@
   </p>
 </div>
     
-    ![Snake animation](https://github.com/GamzeTurap/GAmzeTurap/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/GamzeTurap/GamzeTurap/blob/output/github-contribution-grid-snake.svg)
 
 
 
