@@ -27,7 +27,7 @@
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GamzeTurap&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamzeTurap&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="150rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamzeTurap&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
 </div> 
 
